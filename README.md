@@ -2,6 +2,7 @@ Sagayam Classics Car Rental System
 Welcome to Sagayam Classics, where vintage elegance meets streamlined technology! This Java-based application is your ultimate tool for managing the hiring and servicing of timeless classic cars. Designed with a user-friendly interface, Sagayam Classics ensures efficiency, simplicity, and a touch of old-world charm for users looking to rent or service classic cars.
 
 Features
+
 Vintage Car Management
 Explore a curated selection of classic cars available for hire, complete with essential details such as model, daily rate, and odometer readings.
 
@@ -18,21 +19,27 @@ Reliable Data Persistence
 All car details and rental transactions are saved to a text file, ensuring data consistency and seamless operations.
 
 Getting Started
+
 Follow these steps to begin your journey with Sagayam Classics:
 
 Clone the Repository
 
 git clone https://github.com/yourusername/sagayam-classics.git
+
 Navigate to the Project Directory
 
 cd sagayam-classics
+
 Compile the Java Files
 
 javac ManageHiring.java
+
 Launch the Application
 
 java ManageHiring
-How It Works
+
+How It Works :
+
 Once launched, Sagayam Classics offers an intuitive interface:
 
 View available classic cars for hire.
@@ -43,7 +50,8 @@ Follow simple on-screen instructions to complete transactions.
 
 Charges are calculated instantly, factoring in mileage, duration, and applicable discounts.
 
-Code Overview
+Code Overview :
+
 DateTime Class
 Handles all date and time functionalities, including calculating rental durations and date advancements.
 
